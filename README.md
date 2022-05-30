@@ -12,3 +12,6 @@ this application is using localhost/phpmyadmin so if you want to access the data
 after import the database.sql, you have to configure your IDE build path using the mysql connector file.
 
 after that then you can run the GUI Smoothly.
+
+Short video explanation about Stim : 
+https://youtu.be/MIhY7-7_Y0o
